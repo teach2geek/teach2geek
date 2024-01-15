@@ -10,7 +10,7 @@
 
 &nbsp;
 &nbsp;
-## 💻 My Online Course - Vulnerability Management:
+## 💻 My Online Course:
 [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)](https://www.coursera.org/projects/vulnerability-scanning-with-nmap-network-scanning)
 
 &nbsp;

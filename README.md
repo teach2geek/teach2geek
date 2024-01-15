@@ -1,7 +1,7 @@
 ### Hey 👋
 
 # 💫 About Me:
-🔒 Full-Time Security Engineer of Highly Regulated, Critical Environments | ☁️ Cybersecurity & Cloud Engineering | Multi-Cloud <br>🤖 I'm currently working on automating cloud operations using Python.<br>🦾 I'm looking to collaborate on automation projects involving cloud security to integrate into secure DevOps workflows.<br>🧑🏾‍🏫 Fun Fact: Former Middle School English Teacher & Self-Taught Cybersecurity Professional
+🔥Janice Sanders | 🔒Full-Time Security Engineer of Highly Regulated, Critical Environments | ☁️Cloud | DevOps <br>⚙️I'm currently working on automating cloud operations using Python.<br>🤝🏽I'm looking to collaborate on automation projects involving cloud security to integrate into secure DevOps workflows.<br>✨Fun Fact: Former Middle School English Teacher & Self-Taught Cybersecurity Professional
 
 &nbsp;
 # 🖥️</> Tech Stack & Skills:

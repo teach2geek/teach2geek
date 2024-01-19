@@ -1,7 +1,7 @@
 ### Hey 👋
 
 # 💫 About Me:
-🔥Janice Sanders | 🔒Full-Time Security Engineer of Highly Regulated, Critical Environments | ☁️Cloud | DevOps <br>⚙️I'm currently working on automating cloud operations using Python.<br>🤝🏽I'm looking to collaborate on automation projects involving cloud security to integrate into secure DevOps workflows.<br>✨Fun Fact: Live on 4-generation farmland. Coursera Instructor. Former Middle School English Teacher & Self-Taught CySec Pro
+🔥Janice Sanders | 🔒Full-Time Security Engineer in Highly Regulated, Critical Environments | ☁️Cloud, Security & DevOps <br>⚙️I'm currently working on automating cloud operations using Python.<br>🤝🏽I'm looking to collaborate on automation projects involving cloud security to integrate into secure DevOps workflows.<br>✨Fun Fact: Live on 4-generation farmland. Coursera Instructor. Former Middle School English Teacher & Self-Taught CySec Pro
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/janicefsanders) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@teach2geek) [![Coursera](https://img.shields.io/badge/Coursera-0056D2?logo=coursera&logoColor=white)](https://www.coursera.org/projects/vulnerability-scanning-with-nmap-network-scanning) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@teach2geek)
 
